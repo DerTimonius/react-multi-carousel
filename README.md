@@ -90,9 +90,9 @@ Demo for the SSR <https://react-multi-carousel.now.sh/>
 
 Try to disable JavaScript to test if it renders on the server-side.
 
-Codes for SSR at [github](https://github.com/YIZHUANG/react-multi-carousel/blob/master/examples/ssr/pages/index.js).
+Code for SSR at [GitHub](https://github.com/YIZHUANG/react-multi-carousel/blob/master/examples/ssr/pages/index.js).
 
-Codes for the documentation at [github](https://github.com/YIZHUANG/react-multi-carousel/blob/master/stories/index.stories.js).
+Code for the documentation at [GitHub](https://github.com/YIZHUANG/react-multi-carousel/blob/master/stories/index.stories.js).
 
 ## Install
 
@@ -105,7 +105,7 @@ import 'react-multi-carousel/lib/styles.css';
 
 ### How the SSR mode works?
 
-Codes for SSR at [github](https://github.com/YIZHUANG/react-multi-carousel/blob/master/examples/ssr/pages/index.js).
+Code for SSR at [GitHub](https://github.com/YIZHUANG/react-multi-carousel/blob/master/examples/ssr/pages/index.js).
 
 - Demo for the SSR are at [here](https://react-multi-carousel.now.sh/)
 - Try to disable JavaScript to test if it renders on the server-side.
@@ -492,19 +492,21 @@ For example if you give to your carousel item padding left and padding right 20p
 
 👤 **Yi Zhuang**
 
-- Github: [@YIZHUANG](https://github.com/YIZHUANG)
+- GitHub: [@YIZHUANG](https://github.com/YIZHUANG)
 
 ## 🤝 Contribute
 
-Please read https://github.com/YIZHUANG/react-multi-carousel/blob/master/contributing.md
+Please read the [Contributing Guide](https://github.com/YIZHUANG/react-multi-carousel/blob/master/contributing.md).
 
 Submit an issue for feature request or submit a pr.
 
 ## Local development.
 
-- cd app
-- npm install
-- npm run dev
+```sh copy
+cd dev
+npm install
+npm run dev
+```
 
 ## Donation
 
